@@ -1,0 +1,1 @@
+* reference to firefox vimium capture hotkey.
